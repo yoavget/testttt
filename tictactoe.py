@@ -121,3 +121,7 @@ def play_game(board_size: int = None):
 
 if __name__ == '__main__':
     play_game()
+
+
+
+#35698743967340
